@@ -1,0 +1,6 @@
+pandas>=1.2.4
+numpy>=1.20.2
+matplotlib>=3.4.1
+ord-schema>=0.3.0
+rdkit_pypi==2022.3.1
+scipy>=1.8.0
